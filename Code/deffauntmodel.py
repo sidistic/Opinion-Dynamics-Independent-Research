@@ -7,7 +7,8 @@ m = 10  # Number of interactions per step
 eps = 0.1  # Confidence bound
 t_max = 1000  # Number of simulation steps
 mew = 0.4 #adjustment rate
-
+#tsne
+#histogram
 # Initialize the opinions of the agents randomly
 opinions = np.random.rand(n)
 
